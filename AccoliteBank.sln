@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccoliteBank", "AccoliteBank\AccoliteBank.csproj", "{0DDEEC14-4CE2-4907-8543-8B142D71AFB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccoliteBank.DataAccess", "AccoliteBank.DataAccess\AccoliteBank.DataAccess.csproj", "{B39DBA91-0DEC-47B3-A56A-B06083CA4910}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccoliteBank.Models", "AccoliteBank.Models\AccoliteBank.Models.csproj", "{6AF70ABC-BFF7-48A8-818D-E4AA9E37785A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccoliteBank.Services", "AccoliteBank.Services\AccoliteBank.Services.csproj", "{BF5EA1D0-A94C-4C1E-AFE5-1B97E873C581}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccoliteBank.Tests", "AccoliteBank.Tests\AccoliteBank.Tests.csproj", "{091B914C-9F0A-40FB-A8B4-E95A941388A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DDEEC14-4CE2-4907-8543-8B142D71AFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDEEC14-4CE2-4907-8543-8B142D71AFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDEEC14-4CE2-4907-8543-8B142D71AFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDEEC14-4CE2-4907-8543-8B142D71AFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39DBA91-0DEC-47B3-A56A-B06083CA4910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39DBA91-0DEC-47B3-A56A-B06083CA4910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39DBA91-0DEC-47B3-A56A-B06083CA4910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39DBA91-0DEC-47B3-A56A-B06083CA4910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF70ABC-BFF7-48A8-818D-E4AA9E37785A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF70ABC-BFF7-48A8-818D-E4AA9E37785A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF70ABC-BFF7-48A8-818D-E4AA9E37785A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF70ABC-BFF7-48A8-818D-E4AA9E37785A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5EA1D0-A94C-4C1E-AFE5-1B97E873C581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5EA1D0-A94C-4C1E-AFE5-1B97E873C581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5EA1D0-A94C-4C1E-AFE5-1B97E873C581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5EA1D0-A94C-4C1E-AFE5-1B97E873C581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091B914C-9F0A-40FB-A8B4-E95A941388A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091B914C-9F0A-40FB-A8B4-E95A941388A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091B914C-9F0A-40FB-A8B4-E95A941388A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091B914C-9F0A-40FB-A8B4-E95A941388A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {038B9AE7-DDAB-44D6-BE01-53A370FBEF19}
+	EndGlobalSection
+EndGlobal
